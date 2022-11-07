@@ -1,0 +1,6 @@
+C:\Users\Tecnico\source\repos\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Tecnico\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\Tecnico\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\Tecnico\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\Tecnico\source\repos\teste\teste\obj\Debug\teste.pdb
